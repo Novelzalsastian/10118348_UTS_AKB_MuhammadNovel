@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas_UTS_10118348</string>
+    <string name="title_home">Profil Mhs</string>
+    <string name="title_dashboard">Catatan Harian</string>
+    <string name="title_notifications">Info App</string>
+    <string name="splash">Splash</string>
+    <string name="nim">Nim :10118348</string>
+</resources>
